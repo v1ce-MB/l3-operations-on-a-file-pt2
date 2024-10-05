@@ -6,8 +6,8 @@ with open("victors.txt", "r") as example:
     print(example.read())
 
 
-import os
+# import os
 # os.remove("Martinez.txt")
 
 # codingal = open("saturday.txt", "x")
-os.remove("saturday.txt")
+# os.remove("saturday.txt")
